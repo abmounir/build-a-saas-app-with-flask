@@ -43,6 +43,6 @@ toml==0.10.2
 validators==0.18.2
 vine==5.0.0
 wcwidth==0.2.5
-Werkzeug==2.0.0
+Werkzeug==3.0.6
 WTForms==2.3.3
 WTForms-Components==0.10.5
